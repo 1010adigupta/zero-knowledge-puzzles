@@ -1,0 +1,14 @@
+1,1,1,main.out
+2,2,1,main.x
+3,3,1,main.a
+4,4,1,main.b
+5,5,1,main.c
+6,6,1,main.res
+7,7,1,main.tmp1
+8,8,1,main.tmp2
+9,9,1,main.tmp3
+10,-1,1,main.tmp4
+11,-1,1,main.tmp5
+12,-1,0,main.eq.out
+13,-1,0,main.eq.in
+14,10,0,main.eq.inv
